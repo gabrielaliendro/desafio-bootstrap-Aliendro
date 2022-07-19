@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(179, 179, 179);
+}
+
+#menu a{
+    font-size: 20px;
+    color: white;
+}
+
+/*carousel*/
+
+.carousel-inner{
+    max-height: 45rem;
+}
+
+.servicio-fila{
+    width: 100% !important;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px) {
+    #intro{
+        width: 90% !important;
+    }
+}
